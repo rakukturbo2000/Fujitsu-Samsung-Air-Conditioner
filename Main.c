@@ -25,10 +25,6 @@ int step = 0;
 int stepRpm = 0;
 int wejscia[7]={0};
 int count=0;
-void lol()
-{
-  
-}
 void RpmSet() {
 
   unsigned int engineRpm[3];
